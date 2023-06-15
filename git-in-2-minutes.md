@@ -7,6 +7,10 @@
     ![image](https://github.com/rochester-rcl/rcl-git-guide/assets/24469058/892278b1-1153-46ac-bf68-6e192585fce7)
 
 5. Using the dialog that appears, select the repository you want to add. Note that you only need to clone a repository the very first time you work on a given project on a particular computer.
+
+    ![image](https://github.com/rochester-rcl/rcl-git-guide/assets/24469058/8aeca2c6-dfee-4c9e-a232-b535e430268b)
+
+
 # Working on a Repository safely.
 1. Immediately prior to any work, open github desktop, select the repository in question, and click "Fetch Origin". If you don't have the project in your "Current repository" dropdown, you will need to clone it first (see above).
 
