@@ -1,5 +1,5 @@
 # Setup
-1. Create a github account, and let Joe or Jeff know that you need to be added to the rcl-github organization. Provided you are in digital initiatives, let Channing know that you need to be added to the Digital Initiatives team.
+1. Create a [GitHub](https://github.com/) account, and let Joe or Jeff know that you need to be added to the rcl-github organization. Provided you are in digital initiatives, let Channing know that you need to be added to the Digital Initiatives team.
 2. Install [GitHub desktop](https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi)
 3. Open and Log into Github Desktop using your new GitHub credentials
 4. Select File>Clone Repository
