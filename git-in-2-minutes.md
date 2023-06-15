@@ -10,7 +10,7 @@
 #Working on a Repository safely.
 1. Immediately prior to any work, open github desktop, select the repository in question, and click "Fetch Origin"
 
-    ![image](https://github.com/rochester-rcl/rcl-git-guide/assets/24469058/51ca42b9-11a4-46b0-a680-3eb79407a6b2)
+    ![image](https://github.com/rochester-rcl/rcl-git-guide/assets/24469058/6508f66b-77ac-441e-8290-b224a36cab89)
    
     This ensures that the copy of the project on your local computer is up to date with any changes that have been made by others.
 2. Your github client should now look something like this: 
@@ -21,7 +21,7 @@
 3. Make your changes locally using any software installed on your system, but do ***NOT*** move any files to outside the top level folder that GitHub desktop has created for the project on your system. Only changes within that folder will be tracked. 
 4. When you are done making changes, review the changes made in GitHub desktop's interface. 
 
-    ![image](https://github.com/rochester-rcl/rcl-git-guide/assets/24469058/f7a3c063-4355-4e1d-bb0d-f0e673be3e5d)
+    ![image](https://github.com/rochester-rcl/rcl-git-guide/assets/24469058/e4fdda78-e540-41e7-aa00-ede52e1a4692)
 
 5. Once satisfied, write up a summary and description of your changes, and hit "Commit to master" (it may say commit to main, or some other word/ phrase after "commit to", that's fine)
 
