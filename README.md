@@ -30,11 +30,7 @@ Git is a text version tracking system. That is to say it keeps track of changes 
 
 - **Fork**: When the original development team wants to create a secondary version of the codebase, they typically use a branch. This is because branches are more tightly coupled to the original repository than their alternative, which is a fork. Forks are copies of the repository that have their own Main branch, their own branches .etc. This additional seperation is primarily useful when developers other than the original developers want to work on an open source project. It can also be used when one project gets split into two entirely seperate projects, such as the split between Omeka Classic and Omeka S.
 
-
-
-- **Pull Request**:
-
-
+- **Pull Request**: Branch is to Merge as Fork is to Pull Request... Sort of. When one wants to merge two branches together, or two forks together, and does not have permission to, they instead open a pull request. Pull requests have to be reviewed before the code change actually takes place. 
 
 # What is GitHub?
 Github is a major place where 
