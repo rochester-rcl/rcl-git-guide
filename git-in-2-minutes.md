@@ -10,7 +10,7 @@
 
     ![image](https://github.com/rochester-rcl/rcl-git-guide/assets/24469058/8aeca2c6-dfee-4c9e-a232-b535e430268b)
 
-
+    Note: If you cannot see a repository that you know exists, it means EITHER that it was created after you opened this dialog, you were granted permission to it after you opened this dialog (in either case, refreshing will suffice), OR that you do not have permission to view the repository, in which case you most likely are not in the rochester-rcl organization on GitHub.
 # Working on a Repository safely.
 1. Immediately prior to any work, open github desktop, select the repository in question, and click "Fetch Origin". If you don't have the project in your "Current repository" dropdown, you will need to clone it first (see above).
 
