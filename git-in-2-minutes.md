@@ -37,7 +37,11 @@
 
 # Additional Notes
 If you would like to add more points that can be rolled back to, make each point an individual commit. There is no need to push every time you commit. Just make sure that you DO push, as pushing is the act that actually updates the version of the project seen by others.
+
 Be vigilant about Fetching, Committing, and Pushing frequently. Git gets much more complicated if you don't!
+
 If you have questions, concerns, or strange behavior, please reference [this document](https://github.com/rochester-rcl/rcl-git-guide/tree/main) for a more in depth guide on Git, or ask Channing.
+
 If you would like help on setting up change control for a new set of files, a new project, or new repository, please speak to Channing for assistance until you are familiar with the process.
+
 Please look for places to use Git/Github wherever possible, as it allows for a much safer way of storing work history and allows for much greater collaboration.
