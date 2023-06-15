@@ -1,4 +1,4 @@
-#Setup
+# Setup
 1. Create a github account, and let Joe or Jeff know that you need to be added to the rcl-github organization. Provided you are in digital initiatives, let Channing know that you need to be added to the Digital Initiatives team.
 2. Install [GitHub desktop](https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi)
 3. Open and Log into Github Desktop using your new GitHub credentials
@@ -7,7 +7,7 @@
     ![image](https://github.com/rochester-rcl/rcl-git-guide/assets/24469058/892278b1-1153-46ac-bf68-6e192585fce7)
 
 5. Using the dialog that appears, select the repository you want to work on.
-#Working on a Repository safely.
+# Working on a Repository safely.
 1. Immediately prior to any work, open github desktop, select the repository in question, and click "Fetch Origin"
 
     ![image](https://github.com/rochester-rcl/rcl-git-guide/assets/24469058/6508f66b-77ac-441e-8290-b224a36cab89)
@@ -31,7 +31,7 @@
 
     ![image](https://github.com/rochester-rcl/rcl-git-guide/assets/24469058/8d93a118-201b-4993-a415-ed1100570807)
 
-#Additional Notes
+# Additional Notes
 If you would like to add more points that can be rolled back to, make each point an individual commit. There is no need to push every time you commit. Just make sure that you DO push, as pushing is the act that actually updates the version of the project seen by others.
 Be vigilant about Fetching, Committing, and Pushing frequently. Git gets much more complicated if you don't!
 If you have questions, concerns, or strange behavior, please reference [this document](https://github.com/rochester-rcl/rcl-git-guide/tree/main) for a more in depth guide on Git, or ask Channing.
