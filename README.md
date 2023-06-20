@@ -33,9 +33,26 @@ Git is a text version tracking system. That is to say it keeps track of changes 
 - **Pull Request**: Branch is to Merge as Fork is to Pull Request... Sort of. When one wants to merge two branches together, or two forks together, and does not have permission to, they instead open a pull request. Pull requests have to be reviewed before the code change actually takes place. 
 
 # What is GitHub?
-Github is a major place where 
+
+Github is a major place where Git repositories are stored. The website serves as both a place where you can browse code and commit history, as well as a remote git server that stores your code in the cloud. Repositories on GitHub have a number of important features and configuration options, detailed below.
+
 # What should these tools be used for?
+
+Git should be used any time that text is being edited that is intended to be read by a computer. That is to say, scripts, programs, software, **config files**, etc. It is also a handy place to put documentation written in markdown (like this document) if there's a chance that the institution could benefit from storing a change history. By keeping that history in Git, it allows us to have more comprehensive versioning than something like box.
+
+I emphasize server config files as a place where git can be utilized as it allows us, should we choose to going forward, to centrally manage config files for similar servers, and reduce manual effort.
+
+Should files be in your repository directory that should NOT go into git, you can create a file called .gitignore and list those files there, git will, well, ignore them. This is handy for binary files, because, as mentioned, those don't play nice with Git, as well as editor config files, since presumably nobody wants to have anyone else's editor project settings.
+
 # Repository Basics
+
+Repositories in GitHub have several important values, detailed below:
+
+- Owner
+- Visibility
+- Permissions
+
+# Git Tools
 # Basic Operations
 - Merge 
 - 
@@ -44,5 +61,4 @@ Github is a major place where
 # Intermediate Git Operations
 # Understanding what's going on under the hood
 # Best practices and standards
-# Git Tools
 # Learning More
