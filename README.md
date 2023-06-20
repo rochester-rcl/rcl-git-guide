@@ -55,9 +55,7 @@ Repositories in GitHub have several important values, detailed below:
 # Git Tools
 # Basic Operations
 - Merge 
-- 
-# Github features
-# What is a Diff
+
 # Intermediate Git Operations
 # Understanding what's going on under the hood
 # Best practices and standards
